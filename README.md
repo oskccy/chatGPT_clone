@@ -5,7 +5,7 @@ CloneGPT is a simple chat application that uses OpenAI's GPT-3 API to generate m
 ## Installation
 To run CloneGPT locally, follow these steps:
 
-1. Clone this repository to your local machine using the command git clone https://github.com/oskccy/chatGPT-clone.
+1. Clone this repository to your local machine using the command git clone https://github.com/oskccy/chatGPT_clone.
 2. Install the required dependencies by running the command npm install in the app directory.
 3. Create an account on OpenAI at https://openai.com/.
 4. Create an API key at https://platform.openai.com/account/api-keys (will be substituted as a string for the variable API_KEY in server.js).
