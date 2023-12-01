@@ -1,5 +1,7 @@
 # CloneGPT
 
+By: [*Oscar Sharaz Spencer*](https://www.linkedin.com/in/oscar-sharaz/)
+
 CloneGPT is a simple chat application that uses OpenAI's GPT-3 API to generate messages in response to user input. The application is built using Node.js, React, and Express, and allows users to create new chats and switch between them, as well as send and receive messages.
 
 ## Installation
